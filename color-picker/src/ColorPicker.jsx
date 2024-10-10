@@ -17,5 +17,5 @@ function ColorPicker(){
                   <input type="color" value={color} onChange={handleColorChange} />
                   
              </div>);
-
-export default ColorPicker
+}
+export default ColorPicker;
