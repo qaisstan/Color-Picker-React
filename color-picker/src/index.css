@@ -21,7 +21,6 @@ h1{
   margin-bottom: 25px;
   transition: 0.25s ease;
 }
-
 .color-display p{
   color: hsl(0, 0%, 20%);
   font-size: 2rem;
